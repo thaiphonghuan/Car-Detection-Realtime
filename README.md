@@ -9,7 +9,7 @@ By leveraging the YOLOv8 object detection model, the project will provide real-t
 
 <br>
 
-![Image Description](/Screenshot 2025-01-08 090710.png)
+![Image Description](/demo.png)
 
 
 ## How to use
