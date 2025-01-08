@@ -8,8 +8,8 @@ The project aims to analyze and predict real-time traffic flow by detecting vehi
 By leveraging the YOLOv8 object detection model, the project will provide real-time insights into traffic density, flow patterns, and vehicle counts at these locations, and project traffic conditions for one of the locations based on live data trends.
 
 <br>
-![Project Demo](Traffic-Flow-Realtime/Screenshot 2025-01-08 090710.png)
 
+![Image Description](/Screenshot 2025-01-08 090710.png)
 
 
 ## How to use
